@@ -46,6 +46,7 @@ Specifically this project is part of the second course in this specialization.
 We compare the performance of two following two neural networks:
 - Simple Model (Accuracy 0.97238)
 - Model with double convolutions and pooling (Accuracy 0.9864)
+
 In both case the activation functions used were 'relu' and 'softmax', the lr = 0.001 and as loss function we use categorical_crossentropy.
   
   
