@@ -19,7 +19,7 @@ Specifically this project is part of the second course in this specialization.
 - **Phyton Version:** 3.0
 - **Packages:** pandas, numpy, sklearn, seaborn, matplotlib
 
-# Data description
+# Data description 
 
 - The data files train.csv and test.csv contain gray-scale images of hand-drawn digits, from zero through nine.
 
