@@ -29,5 +29,5 @@ Specifically this project is part of the second course in this specialization.
 
 - The figures looks like that
   <p align="center">
-   <img src="https://github.com/lilosa88/Titanic/blob/main/images/Captura%20de%20Pantalla%202021-04-26%20a%20la(s)%2018.39.59.png" width="360" height="280">
+   <img src="https://github.com/lilosa88/DigitRecognizion/blob/main/Images/Captura%20de%20Pantalla%202021-04-28%20a%20la(s)%2022.16.22.png" width="460" height="240">
   </p> 
