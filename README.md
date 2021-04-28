@@ -32,14 +32,14 @@ Specifically this project is part of the second course in this specialization.
    <img src="https://github.com/lilosa88/DigitRecognizion/blob/main/Images/Captura%20de%20Pantalla%202021-04-28%20a%20la(s)%2022.16.22.png" width="460" height="140">
   </p> 
   
-  # Feature engineering
+# Feature engineering
   
-  - Defining X and Y from the df_train dataset
-  - We check which is the maximum value that you can find in one row of the df_train dataset. The maximum value is 255. If we are training a neural network, for    various reasons it's easier if we treat all values as between 0 and 1, therefore we need to normalize our datasets.
-  - So we normalize dividing by 255.
-  - Resahping, following X = X.values.reshape(-1, 28,28,1)
-  - Label encoding for the y label
-  - Split into train and test
+- Defining X and Y from the df_train dataset
+- We check which is the maximum value that you can find in one row of the df_train dataset. The maximum value is 255. If we are training a neural network, for    various reasons it's easier if we treat all values as between 0 and 1, therefore we need to normalize our datasets.
+- So we normalize dividing by 255.
+- Resahping, following X = X.values.reshape(-1, 28,28,1)
+- Label encoding for the y label
+- Split into train and test
 
 # Neural Network model
 
