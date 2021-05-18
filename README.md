@@ -17,7 +17,7 @@ Specifically this project is part of the second course in this specialization.
 # Code and Resources Used
 
 - **Phyton Version:** 3.0
-- **Packages:** pandas, numpy, sklearn, seaborn, matplotlib
+- **Packages:** pandas, numpy, sklearn, seaborn, matplotlib, tensorflow, keras.
 
 # Data description 
 
